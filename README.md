@@ -1,3 +1,3 @@
 # testrepo
 
-#This is a tesp repo for GitHub course 
+#This is a test repo for GitHub course 
